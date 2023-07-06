@@ -1,0 +1,19 @@
+.form{
+    width:40%;
+    margin:0 auto;
+}
+.form >input{
+    padding:10px 17px;
+    width:70%;
+    border: solid 1px #e2e2e2;
+    border-radius: 4px;
+
+}
+.form >button{
+    padding: 12px 17px;
+    border: none;
+    background-color: green;
+    border-radius: 4px;
+    color: #ffffff;
+    
+}
